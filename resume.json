@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Rodrigo de Souza Castro",
+    "label": "Android & Flutter Developer",
+    "picture": "https://castrors.github.io/img/profile.png",
+    "email": "rodrigodesouzacastro@gmail.com",
+    "phone": "+55(11) 94399-5279",
+    "website": "https://castrors.github.io",
+    "summary": "Android Developer with 6 years of experience, certified by Udacity Android Nanodegree and The App Brewery Flutter Bootcamp. Has experience in small projects from startups to large projects of financial institutions.",
+    "location": {
+      "address": "Jabaquara",
+      "postalCode": "04349-000",
+      "city": "São Paulo",
+      "countryCode": "BR",
+      "region": "SP"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "rodrigocastro_o",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Easynvest",
+      "position": "Senior Android Developer",
+      "website": "https://www.easynvest.com.br",
+      "startDate": "2019-07-22",
+      "summary": "Easynvest is the second largest independent broker in the country",
+      "highlights": [
+        "Member of the security team on Easynvest"
+      ]
+    },
+    {
+      "company": "Concrete",
+      "position": "Senior Android Developer",
+      "website": "https://www.concrete.com.br",
+      "startDate": "2017-06-20",
+      "endDate": "2019-07-15",
+      "highlights": [
+        "Evolution of a worldwide hypermarket network application.",
+        "Evolution and code review of an application from a large financial institution."
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Android Developer",
+      "website": "https://www.ibm.com/",
+      "startDate": "2016-12-01",
+      "endDate": "2017-07-12",
+      "highlights": [
+        "Implementation of a chat (lib) tool for the main application of a large financial institution.",
+        "Assistance and participation in the evolution of the main application."
+      ]
+    },
+    {
+      "company": "Rede Tendência",
+      "position": "Android Developer",
+      "website": "http://redetendencia.com.br",
+      "startDate": "2016-01-05",
+      "endDate": "2016-11-25",
+      "highlights": [
+        "Evolution of a SalesForce application that is the company's flagship product.",
+        "Assistance in the projects of other Android teams."
+      ]
+    },
+    {
+      "company": "Jera",
+      "position": "Android Developer",
+      "website": "https://jera.com.br",
+      "startDate": "2014-06-01",
+      "endDate": "2015-10-25",
+      "highlights": [
+        "Creation and maintenance of applications for startups, mostly projects from 3 to 8 weeks. ",
+        "Taxi application projects, cattle management, legal correspondents among others."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "GDG São Paulo",
+      "position": "Organizer",
+      "website": "http://http://gdgsp.org/",
+      "startDate": "2017-07-01",
+      "summary": "The Google Developers Group of Sao Paulo is an open group of Google technology enthusiasts.",
+      "highlights": [
+        "Android Meetup Organizer"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Federal University of Mato Grosso do Sul",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2009-06-01",
+      "endDate": "2013-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Android Development",
+      "level": "Master",
+      "keywords": [
+        "Android",
+        "Kotlin",
+        "Gradle",
+        "Jetpack"
+      ]
+    },
+    {
+      "name": "Flutter Development",
+      "level": "Itermediate",
+      "keywords": [
+        "Flutter",
+        "Dart"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Game Development",
+      "keywords": [
+        "Pixel Art",
+        "Flame"
+      ]
+    },
+    {
+      "name": "Bikes",
+      "keywords": [
+        "MTB",
+        "Speed"
+      ]
+    }
+  ]
+}
